@@ -10,7 +10,7 @@ scripts that can be useful for SysAdmins on a daily basis.
 2. **System**
 3. **Scripting**
 
-*More details you can find in the project subject* - ***SUBJECT PLACEHOLDER FILL IT***
+*More details you can find in the project subject* - [subject](subject.pdf)
 
 ### Some useful links
 
