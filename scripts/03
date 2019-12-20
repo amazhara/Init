@@ -1,0 +1,1 @@
+figlet -f slant "Hello World"; toilet -f bigmono9 -F metal "Hello world"

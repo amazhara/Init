@@ -1,0 +1,5 @@
+# Find current user name
+U=$(whoami)
+
+# Delete found user
+userdel $U
